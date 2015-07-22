@@ -1,0 +1,13 @@
+{
+  "@context": "http://asjsonld.mybluemix.net",
+  "@id": "acct:james@example.org",
+  "@type": "Person",
+  "displayName": "James",
+  "location": {
+    "@type": "Place",
+    "displayName": "Home",
+    "accuracy": 99.9,
+    "units": "m",
+    "radius": 10
+  }
+}
